@@ -1,1 +1,7 @@
 Aprendendo a usar o GitHub
+
+Como mandar os Arquivos para o GitHub
+
+1- Dar o comando "git add ."
+2- Dar o comando "git commit -m "Mensagem da alteração ou justificativa da modificação"
+3- Dar o comando "git push origin main
