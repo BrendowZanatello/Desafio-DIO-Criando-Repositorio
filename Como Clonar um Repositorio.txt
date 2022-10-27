@@ -1,0 +1,4 @@
+1- Primeiro passo copiar o SSH do repositorio
+2- dar o comando "git clone (SSH do Repositorio)
+
+Não esquecer de dar o comando cd e o nome do repositorio para entrar no repositorio criado
